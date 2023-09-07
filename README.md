@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="479" alt="mevan" src="https://github.com/mevan101/mevan101/assets/143579359/4cc486b0-8573-4617-8a5f-c65791c6a9fe">
+
 
 - 🔭 I’m currently working on skills
 - 🌱 I’m currently learning DSA, Basic programming, Discrete mathametics, 
